@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="logical2sql:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/logical2sql_jar</output-path>
+    <root id="archive" name="logical2sql.jar">
+      <element id="module-output" name="logical2sql" />
+    </root>
+  </artifact>
+</component>
